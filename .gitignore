@@ -7,8 +7,10 @@ local.properties
 .idea/libraries/
 .idea/modules.xml
 .idea/workspace.xml
+app/src/main/assets/gemma3-270m-it-q8.litertlm
 
 
 build/*
 .kotlin/
 **/.idea/
+*.litertlm
