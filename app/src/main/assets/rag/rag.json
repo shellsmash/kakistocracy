@@ -1,0 +1,104 @@
+{
+  "bank_accounts": [
+    {
+      "account_id": "acc_1000",
+      "account_number": "1850592070",
+      "routing_number": "235400220",
+      "bank_name": "Liberty Mutual Trust",
+      "account_type": "checking",
+      "currency": "USD",
+      "balance": 48912.87,
+      "holder_name": "Alex Mercer"
+    },
+    {
+      "account_id": "acc_1001",
+      "account_number": "8499632738",
+      "routing_number": "130939262",
+      "bank_name": "Liberty Mutual Trust",
+      "account_type": "checking",
+      "currency": "EUR",
+      "balance": 69240.82,
+      "holder_name": "Jordan Vance"
+    },
+    {
+      "account_id": "acc_1002",
+      "account_number": "0993471144",
+      "routing_number": "143369308",
+      "bank_name": "Global Horizon Bank",
+      "account_type": "savings",
+      "currency": "EUR",
+      "balance": 15177.11,
+      "holder_name": "Morgan Taylor"
+    },
+    {
+      "account_id": "acc_1003",
+      "account_number": "4991832441",
+      "routing_number": "827489148",
+      "bank_name": "Apex Crest Financial",
+      "account_type": "savings",
+      "currency": "USD",
+      "balance": 36026.86,
+      "holder_name": "Taylor Swift"
+    },
+    {
+      "account_id": "acc_1004",
+      "account_number": "9391389388",
+      "routing_number": "044545183",
+      "bank_name": "Apex Crest Financial",
+      "account_type": "checking",
+      "currency": "GBP",
+      "balance": 70726.98,
+      "holder_name": "Chris Evans"
+    },
+    {
+      "account_id": "acc_1005",
+      "account_number": "7780329532",
+      "routing_number": "141472723",
+      "bank_name": "Liberty Mutual Trust",
+      "account_type": "checking",
+      "currency": "CAD",
+      "balance": 22910.7,
+      "holder_name": "Sam Wilson"
+    },
+    {
+      "account_id": "acc_1006",
+      "account_number": "1226466936",
+      "routing_number": "101838586",
+      "bank_name": "Nova Vanguard Bank",
+      "account_type": "savings",
+      "currency": "EUR",
+      "balance": 37068.39,
+      "holder_name": "Bruce Wayne"
+    },
+    {
+      "account_id": "acc_1007",
+      "account_number": "9828498054",
+      "routing_number": "609638904",
+      "bank_name": "Summit Trust Bank",
+      "account_type": "checking",
+      "currency": "USD",
+      "balance": 5650.74,
+      "holder_name": "Clark Kent"
+    },
+    {
+      "account_id": "acc_1008",
+      "account_number": "3899389169",
+      "routing_number": "198453743",
+      "bank_name": "Apex Crest Financial",
+      "account_type": "savings",
+      "currency": "GBP",
+      "balance": 17260.79,
+      "holder_name": "Diana Prince"
+    },
+    {
+      "account_id": "acc_1009",
+      "account_number": "5176159091",
+      "routing_number": "722921429",
+      "bank_name": "Nova Vanguard Bank",
+      "account_type": "savings",
+      "currency": "GBP",
+      "balance": 4322.86,
+      "holder_name": "Barry Allen"
+    }
+  ]
+}
